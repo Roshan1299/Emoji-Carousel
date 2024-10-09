@@ -6,7 +6,7 @@ class Node:
         self.data = data
         self.next = None
         self.prev = None
-
+        
     def get_data(self):
         """Get the data stored in the node."""
         return self.data
