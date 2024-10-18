@@ -38,6 +38,9 @@ The Emoji Carousel Game enables users to create a dynamic carousel of emojis. Us
 
 ### Deleting an Emoji
 ![Delete](https://github.com/user-attachments/assets/39404e7d-a21b-43b0-9576-9fd68ba4e9b9)
+![Delete - Made with Clipchamp](https://github.com/user-attachments/assets/e927b90a-1545-4e01-b60f-abf83415e8cf)
+
+
 
 ## License 
 
