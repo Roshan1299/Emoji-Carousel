@@ -24,18 +24,20 @@ The Emoji Carousel Game enables users to create a dynamic carousel of emojis. Us
 ## Working
 
 ### Initial Screen
-![image](https://github.com/user-attachments/assets/0f8626d2-9b93-454b-ace3-48ed25ebd103)
+[image](https://github.com/user-attachments/assets/b792dec5-ee28-4a27-89b6-52968410f3fc)
+
 
 ### Adding Emoji
 ![Adding emoji](https://github.com/user-attachments/assets/6c250021-b1ab-4d7d-a9bd-e0d76d325215)
 
-
 ### Navigating the Carousel
-
+![Navigating Carousel](https://github.com/user-attachments/assets/5971946b-d235-4c96-902f-a12e9b89088c)
 
 ### Viewing Emoji Info
+![Info](https://github.com/user-attachments/assets/24300bee-b856-4500-9511-55f2ee47dcf5)
 
 ### Deleting an Emoji
+![Delete](https://github.com/user-attachments/assets/39404e7d-a21b-43b0-9576-9fd68ba4e9b9)
 
 ## License 
 
