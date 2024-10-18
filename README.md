@@ -6,9 +6,8 @@ Welcome to the **Emoji Carousel Game**! This interactive program allows you to m
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Usage](#usage)
-4. [Screenshots](#screenshots)
-5. [License](#license)
+3. [Working](#working)
+4. [License](#license)
 
 ## Overview
 
@@ -22,13 +21,17 @@ The Emoji Carousel Game enables users to create a dynamic carousel of emojis. Us
 * **View Info**: Display detailed information about the selected emoji, including its name, symbol, and category.
 * **Limited Capacity**: The carousel can hold a maximum of 5 emojis, preventing overcrowding.
 
-## Screenshots
+## Working
 
 ### Initial Screen
+![image](https://github.com/user-attachments/assets/0f8626d2-9b93-454b-ace3-48ed25ebd103)
 
-### Adding an Emoji
+### Adding Emoji
+![Adding emoji](https://github.com/user-attachments/assets/6c250021-b1ab-4d7d-a9bd-e0d76d325215)
+
 
 ### Navigating the Carousel
+
 
 ### Viewing Emoji Info
 
